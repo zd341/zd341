@@ -1,4 +1,4 @@
-#### Zaahir Dawood Data Scientist
+#### Zaahir Dawood - Data Scientist
 
 ### Hi there 👋
 
