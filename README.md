@@ -10,7 +10,7 @@ I have worked in roles previously known as "Data Analyst" before the job title s
 
 - 🔭 I’m currently working at an Edtech Company 
 - 🌱 I’m currently learning Advanced Statistics, LLM's & Reinforcement Learning 
-- 👯 I’m looking to collaborate on ML Ops & Productionised Data Science
+- 👯 I’m looking to collaborate on ML Ops & Natural Language Processing Projects
 
 
 # 💻 Tech Stack:
